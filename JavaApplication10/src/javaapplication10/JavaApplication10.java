@@ -13,7 +13,7 @@ public class JavaApplication10 {
     
     
     
-    public static int sum (int x , int y ){
+    public static int sum2 (int x , int y ){
         return x+y ; 
     }
 
